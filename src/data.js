@@ -20,7 +20,7 @@ export default [
     image: require('./images/21.png')
   },
   {
-    name: 'Major Quimby',
+    name: 'Mayor Quimby',
     image: require('./images/22.png')
   },
   {
