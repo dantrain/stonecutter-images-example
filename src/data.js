@@ -31,4 +31,44 @@ export default [
     name: 'Krusty the Clown',
     image: require('./images/36.png')
   },
+  {
+    name: 'Chief Wiggum',
+    image: require('./images/50.png')
+  },
+  {
+    name: 'Waylon Smithers',
+    image: require('./images/59.png')
+  },
+  {
+    name: 'Kent Brockman',
+    image: require('./images/66.png')
+  },
+  {
+    name: 'Arnie Pye',
+    image: require('./images/67.png')
+  },
+  {
+    name: 'Disco Stu',
+    image: require('./images/79.png')
+  },
+  {
+    name: 'Willie',
+    image: require('./images/85.png')
+  },
+  {
+    name: 'Abe Simpson',
+    image: require('./images/111.png')
+  },
+  {
+    name: 'Professor Frink',
+    image: require('./images/314.png')
+  },
+  {
+    name: 'Seymour Skinner',
+    image: require('./images/600.png')
+  },
+  {
+    name: 'Homer Simpson',
+    image: require('./images/908.png')
+  }
 ];
